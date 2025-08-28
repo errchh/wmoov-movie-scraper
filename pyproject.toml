@@ -6,6 +6,7 @@ build-backend = "hatchling.build"
 name = "wmoov-weekend-scraper"
 version = "0.1.0"
 description = "A Playwright-based scraper for WMOOV weekend movies"
+requires-python = ">=3.12"
 authors = [
     {name = "User", email = "user@example.com"},
 ]
